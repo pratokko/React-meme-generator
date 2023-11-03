@@ -2,6 +2,8 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+it is a beginner project and can be used as a template for further developments
+
 ## Available Scripts
 
 In the project directory, you can run:
